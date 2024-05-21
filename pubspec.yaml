@@ -47,6 +47,7 @@ dependencies:
 #    image_path: "assets/icon.png"
 #    icon_size: 48 #
 
+  path: any
 dev_dependencies:
   flutter_test:
     sdk: flutter
